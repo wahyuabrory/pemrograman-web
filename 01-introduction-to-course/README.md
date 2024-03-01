@@ -3,9 +3,9 @@ In the first meeting of the [Web Programming]((https://github.com/wahyuabrory/pe
 
 ## ⛏️Course Requirement
 - Text Editor : Notepad, Notepad++, dll
-- IDE : VSC0de (live share) , dil
-- Web Server : XAMPP, WAMP, dil
-- Database (RDBMS) : MySQL, PostgreSQL, dil
+- IDE : VSC0de (live share) , dll
+- Web Server : XAMPP, WAMP, dll
+- Database (RDBMS) : MySQL, PostgreSQL, dll
 - Updated browser
 
 ## ⏳Course Timeline
@@ -13,8 +13,8 @@ In the first meeting of the [Web Programming]((https://github.com/wahyuabrory/pe
 - Week 2: HTML part 1
 - Week 3: HTML part 2 (HTML5)
 - Week 4: CSS 
-- Week 5: Javascript
-- Week 6: Javascript + HTML5
+- Week 5: JavaScript
+- Week 6: JavaScript + HTML5
 - Week 8: Midterm Exam
 - Week 9: PHP
 - Week 10: PHP part 2

@@ -2,7 +2,7 @@
 Documentation for Web Programming Course
 
 Syllabus
-- [Module 1: Introduction to Course and Instructor](#module-1-introduction-to-web-programming)
+- [Module 1: Introduction to Course and Instructor](#🥇module-1-introduction-to-web-programming)
 - [Module 2: Introduction to HTML & CSS](#🌐module-2-introduction-to-html--css)
 - [Module 3: HTML Part 2 ](#📝module-3-html-part-2)
 - [Module 4: CSS](#🎨module-4-css) 
@@ -26,22 +26,22 @@ Syllabus
 ##  📚Syllabus
 In this course, we will cover the following topics:
 
-### [Module 1: Introduction to Web Programming](01-introduction-to-course/)
+### 🥇[Module 1: Introduction to Web Programming](01-introduction-to-course/)
 * Course overview
 * Introduction to Web Programming
 
-### [🌐Module 2: Introduction to HTML & CSS](02-html-css/)
+### 🌐[Module 2: Introduction to HTML & CSS](02-html-css/)
 * Introduction to HTML & CSS
 * How the Internet works
 * Basic HTML & CSS tags
 * Post-test
 
-### [📝Module 3: HTML Part 2](03-html-5/)
+### 📝[Module 3: HTML Part 2](03-html-5/)
 * Preview HTML5 & PHP
 * Creating 10 forms for various case studies.
 * Rewind last class
 
-### [🎨Module 4: CSS](04-css/)
+### 🎨[Module 4: CSS](04-css/)
 - Introduction to CSS
 - 5W + 1H of CSS
 - Basic Usage

@@ -86,14 +86,14 @@ HTML tags are element names surrounded by angle brackets. Tags usually come in p
   <option value="audi">Audi</option>
 </select>
 ```
-- Textarea
+- Text area
 ```html
 <textarea name="message" rows="10" cols="30">
 The cat was playing in the garden.
 </textarea>
 ```
  ## 🎨CSS 
-CSS(*Cascading Style Sheets*) is a styling language used to control the presentation or layout of web pages written in HTML. With CSS, web developers can control the visual appearance of HTML elements, such as color, text size, spacing between elements, and layout. CSS is used to define styles for your web pages, including the design, layout, and variations in display for different devices and screen sizes. CSS is independent of HTML and can be used with any XML-based markup language. CSS is used to define styles for your web pages, including the design, layout, and variations in display for different devices and screen sizes. CSS is independent of HTML and can be used with any XML-based markup language. Basic structure of CSS:
+CSS(*Cascading Style Sheets*) is a styling language used to control the presentation or layout of web pages written in HTML. With CSS, web developers can control the visual appearance of HTML elements, such as colour, text size, spacing between elements, and layout. CSS is used to define styles for your web pages, including the design, layout, and variations in display for different devices and screen sizes. CSS is independent of HTML and can be used with any XML-based markup language. CSS is used to define styles for your web pages, including the design, layout, and variations in display for different devices and screen sizes. CSS is independent of HTML and can be used with any XML-based markup language. Basic structure of CSS:
 ```css
 body {
   background-color: lightblue;
@@ -163,7 +163,7 @@ body {
 ```
 
 ## 🌐How Internet Works
-![Internet](../images/internet.png)
+![Internet](../assets/internet.png)
 - **Client**: A client is a computer program that requests a service from a server. A web browser is an example of a client. Example: Chrome, Firefox, Safari, etc.
 - **Server**: A server is a computer program that provides services to other computer programs in the same or other computers. A web server is a program that uses HTTP (Hypertext Transfer Protocol) to serve the files that form web pages to users, in response to their requests, which are forwarded by their computers' HTTP clients. Example: Apache, Nginx, IIS, etc.
 - **HTTP**: The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser.
@@ -171,8 +171,8 @@ body {
 
 So that the web browser (client) and the web servers can communicate with each other — the same language — HTTP — and the client must understand HTML.
 
-## 😩Posttest
-![Posttest](../images/02-posttest.png)
+## Post-test
+![Post-test](../assets/02-posttest.png)
 
 Try to make a HTML layout like those picture, and then make a CSS to make it more beautiful. You can use any text editor to make it, and then open it with your web browser. Good luck!👍🏻
 you can take a look at [my work](02-posttest-html-css.html)

@@ -2,7 +2,7 @@
 Documentation for Web Programming Course
 
 Syllabus
-- [🥇Module 1: Introduction to Course and Instructor](#--module-3-html-part-2)
+- [🥇Module 1: Introduction to Course and Instructor](#-module-1-introduction-to-web-programming)
 - [🌐Module 2: Introduction to HTML & CSS](#-module-2-introduction-to-html--css)
 - [📝Module 3: HTML Part 2 ](#-module-3-html-part-2)
 - [🎨Module 4: CSS](#-module-4-css) 

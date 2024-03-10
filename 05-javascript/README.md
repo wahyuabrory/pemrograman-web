@@ -26,7 +26,7 @@ Welcome to the 🔰JavaScript module! This signifies that we are close enough to
 - [🍵 Similar to Java](#58---similar-to-java)
   - [Conditional Statements](#581---conditional-statements)
   - [Loops](#582---loops)
-- [✒️Assignment](#59-assignment)
+- [✒️Assignment](#59-️-assignment)
 
 ## Quick Links
 
@@ -317,6 +317,6 @@ do {
 } while (i < 10);
 ```
 
-### 5.9 ✒️Assignment
+### 5.9 ✒️ Assignment
 
 Make a JS program that receives 3 numbers and returns the highest number. Show output in the same page.

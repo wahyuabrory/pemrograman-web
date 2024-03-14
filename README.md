@@ -6,7 +6,7 @@ Syllabus
 
 - [🥇 Module 1: Introduction to Course and Instructor](#-module-1-introduction-to-web-programming)
 - [🌐 Module 2: Introduction to HTML & CSS](#-module-2-introduction-to-html--css)
-- [📝 Module 3: HTML Part 2 ](#-module-3-html-part-2)
+- [☠️ Module 3: HTML Part 2 ](#%EF%B8%8F-module-3-html-part-2)
 - [🎨 Module 4: CSS](#-module-4-css)
 - [🔰 Module 5: JavaScript](#-module-5-javascript)
 - [🖼️ Module 6: JavaScript + HTML5](#%EF%B8%8F-module-6-javascript--html5)
@@ -34,7 +34,6 @@ In this course, we will cover the following topics:
 
 - Course overview
 - Introduction to Web Programming
-
 - Course overview
 - Introduction to Web Programming
 
@@ -44,7 +43,6 @@ In this course, we will cover the following topics:
 - How the Internet works
 - Basic HTML & CSS tags
 - Post-test
-
 - Introduction to HTML & CSS
 - How the Internet works
 - Basic HTML & CSS tags
@@ -55,7 +53,6 @@ In this course, we will cover the following topics:
 - Preview HTML5 & PHP
 - Creating 10 forms for various case studies.
 - Rewind last class
-
 - Preview HTML5 & PHP
 - Creating 10 forms for various case studies.
 - Rewind last class

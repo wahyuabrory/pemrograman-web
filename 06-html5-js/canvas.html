@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pong Game</title>
+  <link rel="stylesheet" href="style-canvas.css">
+</head>
+
+<body>
+  <h1>Pong game</h1>
+  <p>Made with love by Abrory</p>
+  <canvas id="canvas1" width="600" height="300"></canvas>
+
+  <div class="popup-overlay" id="gameOverPopup" style="display: none;">
+    <div class="popup">
+      <h2>Game Over!</h2>
+      <p>Your score: <span id="finalScore">0</span></p>
+      <button id="retryButton">Try Again!</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

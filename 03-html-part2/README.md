@@ -1,5 +1,5 @@
 
-# Week 3: HTML Part 2 (HTML5)
+# Week 3: HTML Part 2
 
 In this brief session, we'll craft forms tailored to different case studies. Our goal: 10 unique forms, each reflecting a distinct scenario. Before diving in, we'll recap our previous lesson. Additionally, we'll delve into HTML5 & PHP.
 

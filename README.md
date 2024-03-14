@@ -1,6 +1,5 @@
 # 🌐Web Programming Course
 
-
 Documentation for Web Programming Course
 
 Syllabus
@@ -24,11 +23,8 @@ Syllabus
 
 ## 🖇️Resource Links
 
-
 - [📂Class Drive](https://drive.google.com/drive/folders/1np5Kt9E0y9IOQy1e_Pgy5PSI2bUyTh7f)
 - [📁Self Drive](https://drive.google.com/drive/folders/1deypDewomh8yJcx07Xe5OoCFLFycGzoP?usp=sharing)
-
-## 📚Syllabus
 
 ## 📚Syllabus
 
@@ -66,14 +62,12 @@ In this course, we will cover the following topics:
 
 ### [🎨 Module 4: CSS](04-css/)
 
-
 - Introduction to CSS
 - 5W + 1H of CSS
 - Basic Usage
 - Hierarchical Style
 
 ### [🔰 Module 5: JavaScript](05-javascript/)
-
 
 - What's JavaScript
 - Why JavaScript
@@ -82,12 +76,6 @@ In this course, we will cover the following topics:
 - How to use JavaScript
 - Assignment
 
-### [🖼️ Module 6: JavaScript + HTML5](06-html5-js/)
-
-- Introduction to HTML5 & JavaScript
-- HTML5 vs. Flash
-- Canvas
-- Creating a simple game using HTML5 & JavaScript
 ### [🖼️ Module 6: JavaScript + HTML5](06-html5-js/)
 
 - Introduction to HTML5 & JavaScript

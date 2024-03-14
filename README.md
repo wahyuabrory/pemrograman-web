@@ -34,8 +34,7 @@ In this course, we will cover the following topics:
 
 - Course overview
 - Introduction to Web Programming
-- Course overview
-- Introduction to Web Programming
+- Introduction to the instructor
 
 ### [📝 Module 2: Introduction to HTML & CSS](02-html-css/)
 
@@ -43,16 +42,9 @@ In this course, we will cover the following topics:
 - How the Internet works
 - Basic HTML & CSS tags
 - Post-test
-- Introduction to HTML & CSS
-- How the Internet works
-- Basic HTML & CSS tags
-- Post-test
 
 ### [☠️ Module 3: HTML Part 2](03-html-5/)
 
-- Preview HTML5 & PHP
-- Creating 10 forms for various case studies.
-- Rewind last class
 - Preview HTML5 & PHP
 - Creating 10 forms for various case studies.
 - Rewind last class

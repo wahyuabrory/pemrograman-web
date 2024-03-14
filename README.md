@@ -34,7 +34,6 @@ In this course, we will cover the following topics:
 
 - Course overview
 - Introduction to Web Programming
-
 - Course overview
 - Introduction to Web Programming
 
@@ -44,7 +43,6 @@ In this course, we will cover the following topics:
 - How the Internet works
 - Basic HTML & CSS tags
 - Post-test
-
 - Introduction to HTML & CSS
 - How the Internet works
 - Basic HTML & CSS tags
@@ -55,7 +53,6 @@ In this course, we will cover the following topics:
 - Preview HTML5 & PHP
 - Creating 10 forms for various case studies.
 - Rewind last class
-
 - Preview HTML5 & PHP
 - Creating 10 forms for various case studies.
 - Rewind last class

@@ -5,16 +5,16 @@ HTML5 and JavaScript are two key technologies for the web world. They complement
 ---
 
 - [🌐 HTML5 (_HyperText Markup Language_)](#-html5-hypertext-markup-language)
-- [📜 JavaScript](#-javascript)
-- [🥊 Comparison between HTML5 and Flash](#-comparison-between-html5-and-flash)
-- [🖼️ Canvas](#-canvas)
+- [📜 JavaScript](#📜-javascript-building-web-interactivity)
+- [🥊 Comparison between HTML5 and Flash](#-html5-vs-flash-duel-of-technologies)
+- [🖼️ Canvas](#-canvas-in-html5-the-drawing-areas)
   - [Creating a Canvas](#creating-a-canvas)
   - [Drawing on the Canvas](#drawing-on-the-canvas)
   - [Drawing an Object](#drawing-an-object)
   - [Move an Object](#move-an-object)
   - [Controlling an Object](#controlling-an-object)
 - [📖 Other Resources](#-others-resources)
-- [🧑🏻‍💻 Let's Explore Canvas!](#-self-canvas-hands-on)
+- [🚀 Let's Explore Canvas!](#-lets-explore-canvas)
 
 ---
 
@@ -163,7 +163,7 @@ if (rightPressed && paddleX < canvas.width - paddleWidth) {
 4. **_Official Documentation_**: HTML5 at https://html.spec.whatwg.org/ and JavaScript at https://developer.mozilla.org/en-US/docs/Web/JavaScript.
 5. **_Online Communities_**: Join communities like the /r/HTML, /r/JavaScript subreddit, or other forums to discuss and learn from other developers.
 
-## 🧑🏻‍💻 Let's Explore Canvas!
+## 🚀 Let's Explore Canvas!
 
 How about that? HTML5 and JavaScript are truly awesome for creating modern interactive websites! 🚀 Let's explore the sample code in [canvas.html](canvas.html), [style-canvas.css](style-canvas.css) and [script.js](script.js)!
 

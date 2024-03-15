@@ -5,9 +5,9 @@ HTML5 and JavaScript are two key technologies for the web world. They complement
 ---
 
 - [🌐 HTML5 (_HyperText Markup Language_)](#-html5-hypertext-markup-language)
-- [📜 JavaScript](#📜-javascript-building-web-interactivity)
-- [🥊 Comparison between HTML5 and Flash](#-html5-vs-flash-duel-of-technologies)
-- [🖼️ Canvas](#-canvas-in-html5-the-drawing-areas)
+- [📜 JavaScript: Building Web Interactivity](#📜-javascript-building-web-interactivity)
+- [🥊 HTML5 vs Flash: Duel of Technologies](#-html5-vs-flash-duel-of-technologies)
+- [🖼️ Canvas in HTML5: The Drawing Area](#%EF%B8%8F-canvas-in-html5-the-drawing-areas)
   - [Creating a Canvas](#creating-a-canvas)
   - [Drawing on the Canvas](#drawing-on-the-canvas)
   - [Drawing an Object](#drawing-an-object)
